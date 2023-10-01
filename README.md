@@ -1,2 +1,2 @@
-# powerbi-dashboard
+# Data Analytics projects
 data analytics projects
